@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830725052807",
+    "project_id": "rentmounir",
+    "storage_bucket": "rentmounir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830725052807:android:cac15462663005da7ddb22",
+        "android_client_info": {
+          "package_name": "com.example.monirakrem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830725052807-cm109iapdnq14ob33ei9k5srkpqt0d1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKaesC6nYOm1nZ29NqSD6stgEzGhcCWFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830725052807-cm109iapdnq14ob33ei9k5srkpqt0d1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
